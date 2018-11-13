@@ -1,3 +1,4 @@
 Anaconda
 Visual Studio Code
 Eclipse
+IntelliJ
